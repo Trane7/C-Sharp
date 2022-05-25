@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\dgrow\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\dgrow\\.nuget\\packages"
+    ]
+  }
+}

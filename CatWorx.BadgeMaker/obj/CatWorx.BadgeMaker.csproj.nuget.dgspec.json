@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dgrow\\Documents\\dev\\C-sharp\\CatWorx.BadgeMaker\\CatWorx.BadgeMaker.csproj": {}
+    "C:\\Users\\dgrow\\Documents\\dev\\C-Sharp\\Catworx.BadgeMaker\\CatWorx.BadgeMaker.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dgrow\\Documents\\dev\\C-sharp\\CatWorx.BadgeMaker\\CatWorx.BadgeMaker.csproj": {
+    "C:\\Users\\dgrow\\Documents\\dev\\C-Sharp\\Catworx.BadgeMaker\\CatWorx.BadgeMaker.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dgrow\\Documents\\dev\\C-sharp\\CatWorx.BadgeMaker\\CatWorx.BadgeMaker.csproj",
+        "projectUniqueName": "C:\\Users\\dgrow\\Documents\\dev\\C-Sharp\\Catworx.BadgeMaker\\CatWorx.BadgeMaker.csproj",
         "projectName": "CatWorx.BadgeMaker",
-        "projectPath": "C:\\Users\\dgrow\\Documents\\dev\\C-sharp\\CatWorx.BadgeMaker\\CatWorx.BadgeMaker.csproj",
+        "projectPath": "C:\\Users\\dgrow\\Documents\\dev\\C-Sharp\\Catworx.BadgeMaker\\CatWorx.BadgeMaker.csproj",
         "packagesPath": "C:\\Users\\dgrow\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dgrow\\Documents\\dev\\C-sharp\\CatWorx.BadgeMaker\\obj\\",
+        "outputPath": "C:\\Users\\dgrow\\Documents\\dev\\C-Sharp\\Catworx.BadgeMaker\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dgrow\\AppData\\Roaming\\NuGet\\NuGet.Config"
