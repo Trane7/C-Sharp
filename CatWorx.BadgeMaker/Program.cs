@@ -1,5 +1,6 @@
-﻿using System; // 
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
+using System; // 
+
 
 namespace CatWorx.BadgeMaker // This is usually the companys name to help show uniquiness
 {
@@ -7,12 +8,14 @@ namespace CatWorx.BadgeMaker // This is usually the companys name to help show u
     {
         static void Main(string[] args) // Main() is the entry point of the app
         {
-            string[] favFoods = new string[3]{ "pizza", "doughnuts", "icream" };
-            string firstFood =  favFoods[0];
-            string secondFood = favFoods[1];
-            string thirdFood = favFoods[2];
-            Console.WriteLine("I like {0}, {1}, {2}", firstFood, secondFood, thirdFood);
+            List<string> employees = new List<string>() { "adam", "amy"};
 
+            employees.Add("barbara");
+            employees.Add("billy");
+            for (int i = 0; i < employees.Count; i++)
+            {
+                Console.WriteLine(employees[i]);
+            }
         }
     }
 }
